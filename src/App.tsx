@@ -1,7 +1,7 @@
 function App() {
   const textBold = "text-neutral-900 underline font-bold"
   return (
-    <div className='bg-neutral-300 sm:h-screen h-full'>
+    <div className='min-h-full'>
       <div className="max-w-2xl mx-auto p-5">
         <div className='my-8'>
           <a href='https://github.com/oyeolamilekan' target={"_blank"} className={textBold}>Github</a> | <a href='https://www.linkedin.com/in/oye-johnson-4b9345111/' target={"_blank"} className={textBold}>Linkedin</a> | <a href='https://twitter.com/tallestwidget' target={"_blank"} className={textBold}>Twitter</a>
