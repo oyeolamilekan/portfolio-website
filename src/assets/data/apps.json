@@ -1,0 +1,144 @@
+[
+    {
+        "app_title": "Instagram Scraper",
+        "app_description": "Successfully reverse-engineered the Instagram API and developed a solution to retrieve the last 100 posts from any publicly available Instagram profile. Through careful analysis and understanding of the API's workings, I discovered and implemented an endpoint that allows access to the desired data. This achievement showcases my ability to navigate complex systems and find innovative solutions to extract specific information from popular social media platforms.",
+        "app_live_link": "https://twitter.com/magicnull/status/1489383733119655936",
+        "app_tech_stack": [
+            {
+                "tech_stack_title": "Python",
+                "tech_stack_link": "https://www.python.org/"
+            },
+            {
+                "tech_stack_title": "Requests",
+                "tech_stack_link": "https://requests.readthedocs.io/en/latest/"
+            },
+            {
+                "tech_stack_title": "Heroku",
+                "tech_stack_link": "https://www.heroku.com/"
+            },
+            {
+                "tech_stack_title": "Django",
+                "tech_stack_link": "https://www.djangoproject.com/"
+            }
+        ]
+    },
+    {
+        "app_title": "DCA Monitor",
+        "app_description": "Created a web application and mobile app that enables me to effectively monitor my cryptocurrency portfolio and implement a dollar averaging strategy for regular crypto purchases. Through the development of these applications, I ensured seamless tracking of my crypto investments and facilitated the execution of automated purchases at predetermined intervals. This project demonstrates my proficiency in designing and building user-friendly applications, as well as my ability to integrate financial strategies into technological solutions.",
+        "app_live_link": "https://twitter.com/magicnull/status/1564390321131294723",
+        "app_tech_stack": [
+            {
+                "tech_stack_title": "React",
+                "tech_stack_link": "https://react.dev/"
+            },
+            {
+                "tech_stack_title": "TypeScript",
+                "tech_stack_link": "https://www.typescriptlang.org/"
+            },
+            {
+                "tech_stack_title": "Tailwind",
+                "tech_stack_link": "https://tailwindcss.com/"
+            },
+            {
+                "tech_stack_title": "MongooseJs",
+                "tech_stack_link": "https://mongoosejs.com/"
+            },
+            {
+                "tech_stack_title": "Node.js",
+                "tech_stack_link": "https://nodejs.org/en"
+            }
+        ]
+    },
+    {
+        "app_title": "Crypto Point of Sale",
+        "app_description": "Developed a straightforward cryptocurrency Point of Sale (POS) application using the Basqet platform. This app allows businesses to accept cryptocurrency payments for goods and services. By leveraging the capabilities of the Basqet platform, I created a user-friendly and intuitive POS app that enables smooth transactions and seamless integration with various cryptocurrencies. This project highlights my proficiency in building practical applications on existing platforms and my ability to provide innovative solutions for businesses operating in the cryptocurrency space.",
+        "app_live_link": "https://twitter.com/magicnull/status/1514879915811872771",
+        "app_tech_stack": [
+            {
+                "tech_stack_title": "Flutter",
+                "tech_stack_link": "https://flutter.dev/"
+            }
+        ]
+    },
+    {
+        "app_title": "Coinapp",
+        "app_description": "Designed and developed an intuitive mobile application that simplifies the process of purchasing airtime using cryptocurrency. This app seamlessly integrates with the Quidax developer API, enabling users to effortlessly convert their crypto holdings into airtime credit. By leveraging the Quidax API, I ensured a smooth and secure transaction process, allowing users to conveniently top up their mobile airtime using their preferred cryptocurrency. This project demonstrates my proficiency in integrating third-party APIs and creating user-centric applications that enhance convenience and accessibility for crypto users.",
+        "app_live_link": "https://twitter.com/i_josif/status/1529071653459828736?s=20",
+        "app_tech_stack": [
+            {
+                "tech_stack_title": "Python",
+                "tech_stack_link": "https://www.python.org/"
+            },
+            {
+                "tech_stack_title": "Django",
+                "tech_stack_link": "https://www.djangoproject.com/"
+            },
+            {
+                "tech_stack_title": "React",
+                "tech_stack_link": "https://react.dev/"
+            },
+            {
+                "tech_stack_title": "TypeScript",
+                "tech_stack_link": "https://www.typescriptlang.org/"
+            },
+            {
+                "tech_stack_title": "Tailwind",
+                "tech_stack_link": "https://tailwindcss.com/"
+            }
+        ]
+    },
+    {
+        "app_title": "Crypto Giftcard",
+        "app_description": "Created a user-friendly mobile application that enables users to purchase gift cards using cryptocurrency as a payment method. This app provides a seamless experience for users who want to convert their digital assets into tangible gift cards for various popular retailers and online platforms. By integrating secure cryptocurrency payment gateways and partnering with a wide range of merchants, I ensured that users can easily browse, select, and purchase gift cards using their preferred cryptocurrencies. This project showcases my ability to develop innovative solutions that bridge the gap between digital currencies and traditional forms of payment, providing users with greater flexibility and convenience in their purchasing options.",
+        "app_live_link": "https://twitter.com/magicnull/status/1576952488346865665?s=20&t=bae7Sp1FLulPopHaf96s1g",
+        "app_tech_stack": [
+            {
+                "tech_stack_title": "React",
+                "tech_stack_link": "https://react.dev/"
+            },
+            {
+                "tech_stack_title": "TypeScript",
+                "tech_stack_link": "https://www.typescriptlang.org/"
+            },
+            {
+                "tech_stack_title": "MongooseJs",
+                "tech_stack_link": "https://mongoosejs.com/"
+            },
+            {
+                "tech_stack_title": "Node.js",
+                "tech_stack_link": "https://nodejs.org/en"
+            },
+            {
+                "tech_stack_title": "MongoDB",
+                "tech_stack_link": "https://www.mongodb.com/"
+            }
+        ]
+    },
+    {
+        "app_title": "Offramp crypto app",
+        "app_description": "Designed and developed a user-friendly mobile application that revolutionizes the process of buying gift cards by enabling users to make purchases using cryptocurrencies. This innovative app seamlessly integrates with various cryptocurrency payment gateways, offering users a convenient and secure way to convert their digital assets into gift cards from a wide range of popular retailers. By implementing a simple and intuitive interface, I ensured a smooth user experience, allowing individuals to easily browse, select, and purchase gift cards with their preferred cryptocurrencies. This project demonstrates my ability to combine emerging technologies with traditional commerce, providing users with a modern and flexible solution for their gifting needs.",
+        "app_live_link": "https://twitter.com/magicnull/status/1621131453928194048?s=20",
+        "app_tech_stack": [
+            {
+                "tech_stack_title": "React",
+                "tech_stack_link": "https://react.dev/"
+            },
+            {
+                "tech_stack_title": "TypeScript",
+                "tech_stack_link": "https://www.typescriptlang.org/"
+            },
+            {
+                "tech_stack_title": "MongooseJs",
+                "tech_stack_link": "https://mongoosejs.com/"
+            },
+            {
+                "tech_stack_title": "Node.js",
+                "tech_stack_link": "https://nodejs.org/en"
+            },
+            {
+                "tech_stack_title": "MongoDB",
+                "tech_stack_link": "https://www.mongodb.com/"
+            }
+        ]
+    }
+]
