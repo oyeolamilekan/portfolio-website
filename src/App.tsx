@@ -11,12 +11,12 @@ function App() {
         <p className='my-3'>Hello.</p>
         <p className='my-3'>Hi i am <span className='font-bold'>Oye Olalekan Johnson</span>, a Software Developer currently living in Kwara, Nigeria.</p>
         <p className='my-3'>
-          Since 2019, I have been actively involved in building software solutions for notable companies such as 
-          <a href='https://quidax.com/' className={textBold} target={"_blank"}>Quidax</a>, 
-          <a className='text-neutral-900 underline font-bold' target={"_blank"} href="https://basqet.com/">Basqet</a>, 
-          as well as startups including <a href='https://stemuli.net/' className='text-neutral-900 underline font-bold' target={"_blank"}>Stemuli</a>, 
-          <a href='http://fluidangle.com/' className='text-neutral-900 underline font-bold' target={"_blank"}>Fluidangle</a>, 
-          <a href='https://nativebrands.co/' className='text-neutral-900 underline font-bold' target={"_blank"}>NativeBrands</a>, 
+          Since 2019, I have been actively involved in building software solutions for notable companies such as
+          <a href='https://quidax.com/' className={textBold} target={"_blank"}> Quidax</a>, 
+          <a className='text-neutral-900 underline font-bold' target={"_blank"} href="https://basqet.com/"> Basqet</a>, 
+          as well as startups including <a href='https://stemuli.net/' className='text-neutral-900 underline font-bold' target={"_blank"}> Stemuli</a>, 
+          <a href='http://fluidangle.com/' className='text-neutral-900 underline font-bold' target={"_blank"}> Fluidangle</a>, 
+          <a href='https://nativebrands.co/' className='text-neutral-900 underline font-bold' target={"_blank"}> NativeBrands</a>, 
           and Diamond Acres Software. Throughout my experience, I have contributed my skills and expertise to develop innovative 
           and impactful software products. Collaborating with both established organizations and emerging startups has equipped 
           me with a diverse range of knowledge and an adaptable approach to solving complex challenges. This background showcases 
