@@ -16,6 +16,7 @@ function App() {
           <a className='text-neutral-900 underline font-bold' target={"_blank"} href="https://basqet.com/"> Basqet</a>, 
           as well as startups including <a href='https://stemuli.net/' className='text-neutral-900 underline font-bold' target={"_blank"}> Stemuli</a>, 
           <a href='http://fluidangle.com/' className='text-neutral-900 underline font-bold' target={"_blank"}> Fluidangle</a>, 
+          <a href='http://numerofx.com/' className='text-neutral-900 underline font-bold' target={"_blank"}> NumeroFX</a>, 
           <a href='https://nativebrands.co/' className='text-neutral-900 underline font-bold' target={"_blank"}> NativeBrands</a>, 
           and Diamond Acres Software. Throughout my experience, I have contributed my skills and expertise to develop innovative 
           and impactful software products. Collaborating with both established organizations and emerging startups has equipped 
@@ -34,7 +35,7 @@ function App() {
                 <span className="ml-1">
                   {item.app_description}
                 </span>
-                <p className="my-1">Tech used: {item.app_tech_stack.map((data, index) => <a href={data.tech_stack_link} target={"_blank"} className={`${textBold} mr-2`}>{data.tech_stack_title}</a>)}</p>
+                <p className="my-1">Tech used: {item.app_tech_stack.map((data, index) => <a href={data.tech_stack_link} target={"_blank"} className={`${textBold} mr-2`} key={index}>{data.tech_stack_title}</a>)}</p>
               </li>
             )
           })}
