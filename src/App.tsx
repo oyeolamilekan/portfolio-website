@@ -6,7 +6,7 @@ function App() {
     <div className='min-h-full'>
       <div className="max-w-2xl mx-auto p-5">
         <div className='my-8'>
-          <a href='https://github.com/oyeolamilekan' target={"_blank"} className={textBold}>Github</a> | <a href='https://www.linkedin.com/in/oye-johnson-4b9345111/' target={"_blank"} className={textBold}>Linkedin</a> | <a href='https://twitter.com/tallestwidget' target={"_blank"} className={textBold}>Twitter</a> | <a href="https://docs.google.com/document/d/e/2PACX-1vQI8QATs42xvt6julxWmb9jVIifbsYYtTewC2B9v_gCmeQLMGNSFPdkFroxa5ehuPiLe1TkMxTl0eUi/pub" className={textBold} target={"_blank"}>Resumé</a>
+          <a href='https://github.com/oyeolamilekan' target={"_blank"} className={textBold}>Github</a> | <a href='https://www.linkedin.com/in/oye-johnson/' target={"_blank"} className={textBold}>Linkedin</a> | <a href='https://twitter.com/tallestwidget' target={"_blank"} className={textBold}>Twitter</a> | <a href="https://docs.google.com/document/d/e/2PACX-1vQI8QATs42xvt6julxWmb9jVIifbsYYtTewC2B9v_gCmeQLMGNSFPdkFroxa5ehuPiLe1TkMxTl0eUi/pub" className={textBold} target={"_blank"}>Resumé</a>
         </div>
         <p className='my-3'>Hello.</p>
         <p className='my-3'>Hi i am <span className='font-bold'>Oye Olalekan Johnson</span>, a Software Developer currently living in Kwara, Nigeria.</p>
