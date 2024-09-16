@@ -12,16 +12,16 @@ function App() {
         <p className='my-3'>Hi i am <span className='font-bold'>Oye Olalekan Johnson</span>, a Software Developer currently living in Kwara, Nigeria.</p>
         <p className='my-3'>
           Since 2019, I have been actively involved in building software solutions for notable companies such as
-          <a href='https://quidax.com/' className={textBold} target={"_blank"}> Quidax</a>, 
-          <a className='text-neutral-900 underline font-bold' target={"_blank"} href="https://basqet.com/"> Basqet</a>, 
-          as well as startups including <a href='https://stemuli.net/' className='text-neutral-900 underline font-bold' target={"_blank"}> Stemuli</a>, 
-          <a href='http://fluidangle.com/' className='text-neutral-900 underline font-bold' target={"_blank"}> Fluidangle</a>, 
-          <a href='http://numerofx.com/' className='text-neutral-900 underline font-bold' target={"_blank"}> NumeroFX</a>, 
-          <a href='https://nativebrands.co/' className='text-neutral-900 underline font-bold' target={"_blank"}> NativeBrands</a>, 
-          and Diamond Acres Software. Throughout my experience, I have contributed my skills and expertise to develop innovative 
-          and impactful software products. Collaborating with both established organizations and emerging startups has equipped 
-          me with a diverse range of knowledge and an adaptable approach to solving complex challenges. This background showcases 
-          my ability to thrive in different environments, work effectively with diverse teams, and deliver successful software 
+          <a href='https://quidax.com/' className={textBold} target={"_blank"}> Quidax</a>,
+          <a className='text-neutral-900 underline font-bold' target={"_blank"} href="https://basqet.com/"> Basqet</a>,
+          as well as startups including <a href='https://stemuli.net/' className='text-neutral-900 underline font-bold' target={"_blank"}> Stemuli</a>,
+          <a href='http://fluidangle.com/' className='text-neutral-900 underline font-bold' target={"_blank"}> Fluidangle</a>,
+          <a href='http://numerofx.com/' className='text-neutral-900 underline font-bold' target={"_blank"}> NumeroFX</a>,
+          <a href='https://nativebrands.co/' className='text-neutral-900 underline font-bold' target={"_blank"}> NativeBrands</a>,
+          and Diamond Acres Software. Throughout my experience, I have contributed my skills and expertise to develop innovative
+          and impactful software products. Collaborating with both established organizations and emerging startups has equipped
+          me with a diverse range of knowledge and an adaptable approach to solving complex challenges. This background showcases
+          my ability to thrive in different environments, work effectively with diverse teams, and deliver successful software
           solutions across various industries.
         </p>
         <p className='my-3'>
@@ -56,8 +56,19 @@ function App() {
           <li>Ruby on rails</li>
           <li>Heroku / Railway / AWS.</li>
         </ul>
-        <h3 className='my-3'><b>Contact</b></h3>
-        <p className='my-3'>Shoot me an email at <a href="mailto:johnsonoye34@gmail.com" className={textBold}>johnsonoye34@gmail.com</a></p>
+        <h3 className='my-3'><b>Pricing</b></h3>
+        <div className="space-y-2" id="pricing">
+          <h2 className="text-3xl font-bold">Web App MVP</h2>
+          <p>Most important aspects of your idea in a form of a Web App</p>
+          <p className="text-3xl font-bold">$1,999</p>
+          <p>What you'll get:</p>
+          <ul className='list-disc list-inside'>
+            <li>14-days turnaround</li>
+            <li>Additional tweaks starting at $500</li>
+            <li>Full code</li>
+            <li>14-days turnaround</li>
+          </ul>
+        </div>
       </div>
     </div>
   )
